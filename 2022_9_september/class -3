@@ -1,0 +1,16 @@
+<body class="bg-gray-300 flex h-screen items-center justify-center">
+        <section class="mt-">
+          <div class="bg-white w-52  mx-auto py-4 rounded-md shadow-md">
+            <div class=" mx-auto">
+              <img class="mx-auto ring-4 w-16 h-16 rounded-full" src="./photos/DSC_7118-02.jpeg" alt="">
+            </div>
+            <div class="text-center">
+              <h1 class="font-medium text-lg p-1">Mohammad Mahmud</h1>
+              <h2>I'm Developer</h2>
+            </div>
+            <div class="flex  justify-center mt-4">
+              <button class="font-medium border-2 hover:bg-gray-600 hover:text-white duration-300 rounded-full px-3 py-1.5">Visit Now</button>
+            </div>
+          </div>
+        </section>
+</body>
