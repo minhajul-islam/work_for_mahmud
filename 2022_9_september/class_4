@@ -1,0 +1,30 @@
+Redponsiv.
+
+
+Breakpoint prefix	Minimum width	CSS
+sm	640px	@media (min-width: 640px) { ... }
+md	768px	@media (min-width: 768px) { ... }
+lg	1024px	@media (min-width: 1024px) { ... }
+xl	1280px	@media (min-width: 1280px) { ... }
+2xl	1536px	@media (min-width: 1536px) { ... }
+
+
+cart
+
+<body class="bg-gray-300 flex h-screen mt-10 justify-center">
+        <section class="mt-">
+          <div class="bg-white w-52 sm:w-80 sm:flex sm:items-center  mx-auto py-4 rounded-md shadow-md">
+            <div class=" mx-auto">
+              <img class="mx-auto ring-4 w-16 h-16 rounded-full" src="./photos/DSC_7118-02.jpeg" alt="">
+            </div>
+
+            <div class="text-center sm:mr-6 sm:text-left">
+              <h1 class="font-medium text-lg p-1">Mohammad Mahmud</h1>
+              <h2 class="font-medium text-gray-600">I'm Developer</h2>
+            <div class="flex  justify-center sm:justify-start mt-4">
+              <button class="font-medium border- ring-2 hover:bg-gray-600 hover:text-white duration-300 rounded-full px-3 py-1.5">Visit Now</button>
+            </div>
+          </div>
+          </div>
+        </section>
+</body>
