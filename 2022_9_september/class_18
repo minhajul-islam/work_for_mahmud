@@ -1,0 +1,22 @@
+seclation:bg-red-300  /
+
+frist-letter:text-4xl  /
+
+class= "after:content-['*']"  ///output- (Email*)//
+
+dark:md:hover:bg-gray//
+
+/// <button onclick="window.print()" class=""> print  </button> 
+class=" prinf:text-center print:text-black print:hidden "///
+
+<ifrem class="w-full rounded-md aspect-video " src="videp link" ></ifrem> // youtub theke video add . aspect-video full video width and height .
+
+<img class="ovject-cover " /> // text er sathe cover hobe,
+
+<img class="aspect-video " /> // text er puro chobi dekhabe,
+aspect-[3/2]
+
+main html er moddhe dite hobe (scroll-smooth)
+
+
+
