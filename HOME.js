@@ -199,7 +199,7 @@ const Footer = () => {
         <div className="grid grid-cols-4 gap-6 border border-gray-600 rounded-md p-2 ">
 
           {/* items 1 */}
-          <div className="">
+          <div>
             <div className="w-14 rounded-full border border-gray-600 mx-auto">
               <img className=" p-2" src="https://cdn-icons-png.flaticon.com/512/2163/2163350.png" />
             </div>
@@ -313,7 +313,7 @@ const Footer = () => {
 
                 <h2 className="text-lg font-medium text-center py-1">&#2547;1,390</h2>
 
-                <a className="bg-black text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
+                <a className="bg-black cursor-pointer text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
               </div>
             </div>
 
@@ -327,7 +327,7 @@ const Footer = () => {
 
                 <h2 className="text-lg font-medium text-center py-1">&#2547;1,390</h2>
 
-                <a className="bg-black text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
+                <a className="bg-black cursor-pointer text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
               </div>
             </div>
 
@@ -341,7 +341,7 @@ const Footer = () => {
 
                 <h2 className="text-lg font-medium text-center py-1">&#2547;1,390</h2>
 
-                <a className="bg-black text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
+                <a className="bg-black cursor-pointer text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
               </div>
             </div>
 
@@ -355,7 +355,7 @@ const Footer = () => {
 
                 <h2 className="text-lg font-medium text-center py-1">&#2547;1,390</h2>
 
-                <a className="bg-black text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
+                <a className="bg-black cursor-pointer text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
               </div>
             </div>
 
@@ -369,7 +369,7 @@ const Footer = () => {
 
                 <h2 className="text-lg font-medium text-center py-1">&#2547;1,390</h2>
 
-                <a className="bg-black text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
+                <a className="bg-black cursor-pointer text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
               </div>
             </div>
 
@@ -383,7 +383,7 @@ const Footer = () => {
 
                 <h2 className="text-lg font-medium text-center py-1">&#2547;1,390</h2>
 
-                <a className="bg-black text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
+                <a className="bg-black cursor-pointer text-white hover:bg-gray-700 px-4 py-2 rounded-md text-center mx-auto text-sm">ADD TO CART</a>
               </div>
             </div>
 
