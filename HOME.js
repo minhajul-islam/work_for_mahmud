@@ -5,11 +5,6 @@ const Footer = () => {
     <div className="">
 
 
-
-
-
-
-
       {/* Footer */}
       <div className="border-b pb-1">
 
